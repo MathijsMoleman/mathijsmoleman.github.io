@@ -15,9 +15,16 @@ This is our itch.io page: https://riigzy.itch.io/ciphered-chains
 
 
 ## Dungeon Generation
-https://MathijsMoleman.github.io/Algorithems.mp4
+<html>
+  <body>
+    <video width="640" controls>
+      <source src="Algorithems.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </body>
+</html>
 
-https://github.com/user-attachments/assets/cfbc905d-1104-43a7-83a0-6bb1a079c8f6
+https://github.com/user-attachments/assets/cfbc905d-1104-43a7-83a0-6bb1a079c8f6.
 
 For this projecet i had to write a algorithem that will generade a random dungeon with any heigt and with combination. It also had to come with a player that could navigate the dungeon
 ### What I Learned
