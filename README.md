@@ -1,3 +1,6 @@
+
+<img width="102" height="156" alt="Self Portret" src="https://github.com/user-attachments/assets/60a13969-5814-4b2d-bcd8-e0aa94c73744" />
+
 A second year Game and Graphics Engineer and also an 3D artist student at Creative media and Game Technologies Saxion University of Applied Sciences
 
 # About Me
