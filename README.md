@@ -1,4 +1,3 @@
-# Mathijs Moleman
 A second year Game and Graphics Engineer and also an 3D artist student at Creative media and Game Technologies Saxion University of Applied Sciences
 
 # About Me
