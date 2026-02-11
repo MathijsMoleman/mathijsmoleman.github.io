@@ -13,6 +13,14 @@ Project Frontiers is a school project where we had to make a game with a group o
 
 This is our itch.io page: https://riigzy.itch.io/ciphered-chains
 
+### What i Learned 
+- How to work together with a team. 
+- Comunicating with a team.
+
+
+
+
+
 
 ## Dungeon Generation
 <html>
