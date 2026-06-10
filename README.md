@@ -15,7 +15,7 @@ This is our itch.io page: https://riigzy.itch.io/ciphered-chains
 
 ### What i Learned 
 - How to work together with a team. 
-- Comunicating with a team.
+- Communicating with a team.
 
 
 
@@ -34,15 +34,28 @@ This is our itch.io page: https://riigzy.itch.io/ciphered-chains
 
 https://github.com/user-attachments/assets/cfbc905d-1104-43a7-83a0-6bb1a079c8f6.
 
-For this projecet i had to write a algorithem that will generade a random dungeon with any heigt and with combination. It also had to come with a player that could navigate the dungeon
+For this project i had to write a algoritem that will generate a random dungeon with any height and with combination. It also had to come with a player that could navigate the dungeon
 ### What I Learned
 
-- What algorithems are.
+- What algorithms are.
 - Visual debugging.
 - What Hashsets, Queues and dictionaries are.
 - How A* and Dijkstra Work.
 - How BFS, DFS, Flood Fill and Martching Squares work and implement them.
-- What Big O notation is and the Time Complexity of an algorithem.
+- What Big O notation is and the Time Complexity of an algorithm.
 
+## Procedural Art
 
+<html>
+  <body>
+    <img src="BeautyRendererStone.png" alt="Photo" width="500">
+  </body>
+</html>
 
+For this project i had to make materials that are procedurally generated I made a material of a stone wall were you can easily can change the size of the stones and the detail.
+
+### What I Learned 
+- What procedural materials are
+- How Substance Designer works
+- The value of procedural materials
+- Optimization of these materials 
